@@ -8,7 +8,7 @@ const Contact =({navigation})=>{
           <>
               <View >
               <TouchableOpacity>
-                  <Text>Contact </Text>
+                  <Text>Contact wzdsa</Text>
               </TouchableOpacity>
             
             </View>
